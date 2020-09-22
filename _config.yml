@@ -1,0 +1,38 @@
+# Site settings
+title: Anil Iqbal Portfolio
+description: Anil Iqbal's professional portfolio site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "anil-iqbal.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# User settings
+username: Anil Iqbal
+user_title:
+user_job_title: Exploring career opportunities in Data Analytics | Business Intelligence
+email: anil.iqbal@yahoo.ca
+# twitter: anil
+github: www.github.com/anil-iqbal
+linkedin: https://ca.linkedin.com/in/aniliqbal
+phone: "(647) 223-9599"
+
+# Paginate
+permalink: ':title/'
+paginate: 5
+paginate_path: /page:num/
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-environment-variables
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - github-pages
+  - jekyll-paginate
+exclude:
+  - Gemfile
+  - Gemfile.lock
+include: [_pages]
+exclude: ['package.json', 'src' , 'node_modules']

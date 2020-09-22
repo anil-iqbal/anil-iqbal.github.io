@@ -1,0 +1,21 @@
+{% assign site_d = site.data.about %}
+{% assign skills = site.data.skills %}
+<div class="avatar">
+	<img src="{{ site_d.image }}" alt="Avatar">
+</div>
+<div class="user-details">
+	{{ site_d.description }}
+</div>
+<div class="user">
+	{% for item in skills.item %}
+	<div class="tech">
+		<h2>{{ item.name }}</h2>
+		<div class="icons">
+			<img src="{{ item.image }}" alt="{{ item.name }}" class="icons-image">
+		</div>
+		<p>
+			{{ item.value }}
+		</p>
+	</div>
+	{% endfor %}
+</div>

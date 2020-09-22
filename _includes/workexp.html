@@ -1,0 +1,14 @@
+{% assign site_d = site.data.experience %}
+<div class="user-details">
+	<h1> <u> Work Experience </u></h1>
+</div>
+{% for item in site_d.job %}
+<div class="user-workexp">
+</div>
+<div style="text-align:center">
+	<h3> {{ item.title }}</h3>
+	<p> {{ item.description }}</p>
+	<p align="center"><a class="project-link" href="{{ site.linkedin }}">Details</a></p>
+</div>
+</div>
+{% endfor %}

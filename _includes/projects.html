@@ -1,0 +1,30 @@
+<div class="user-details">
+	<h1> <u>Projects </u></h1>
+</div>
+{% for post in site.posts %}
+{% assign mod = forloop.index | modulo: 2 %}
+{% if mod == 0 %}
+<!-- even -->
+<div class="user-projects">
+	<div class="images-right">
+		<img alt="{{ post.title }}" src="{{ post.img | relative_url }}" />
+	</div>
+	<div class="contents-left">
+		<h3> {{ post.title }} </h3>
+		<p> {{ post.description }} </p>
+		<p align="center"><a class="project-link" href="{{ post.url }}">Check it out</a></p>
+	</div>
+</div>
+{% else %}
+<div class="user-projects">
+	<div class="images-left">
+		<img alt="{{ post.title }}" src="{{ post.img | relative_url }}" />
+	</div>
+	<div class="contents-right">
+		<h3> {{ post.title }} </h3>
+		<p> {{ post.description }} </p>
+		<p align="center"><a class="project-link" href="{{ post.url }}">Check it out</a></p>
+	</div>
+</div>
+{% endif %}
+{% endfor %}
