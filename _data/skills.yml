@@ -14,11 +14,9 @@ item:
     value: "Python"
     image: "images/line-chart.png"
   - name: "Database"
-    value: "SQL"
+    value: "SQL, BiqQuery"
     image: "images/line-chart.png"
   - name: "Visualization"
     value: "Tableau, Power BI, Seaborn and Matplotlib"
     image: "images/line-chart.png"
-  - name: "Analytics"
-    value: "Google Analytics"
-    image: "images/line-chart.png"
+ 
