@@ -2,14 +2,12 @@
 layout: post
 title:  "Loan prediction "
 img: images/project/loan/Thumnail.png
-description: "Built & implemented a content-based Movie recommender system using SK Learn library. The cosine similarity metrics were used that denotes similarity between two movies."
+description: "Machine Learning using scikit-learn Design bank loan default database schema in MySQL Use Pandas for feature engineering. Train various models with Gridsearch for loan default prediction Model validation using f1-score"
 ---
 
 **Data:**The dataset contained in this project has 4,303 records with 24 data series.
 
-**Recommender system:**
-
-Two most popular methods to develop a recommender system are collaborative filtering and content based recommendation systems. We will focus on collaborative filtering which system will recommend us movies that we haven’t watched yet, but users similar to us have, and like.
+Modeled a classifier for Loan Default Prediction based on the borrower’s financial history to minimize bank’s lending risk. Achieved an accuracy of 84% using Ada-boost classifier. Tools used included: Pandas, Sklearn, Matplotlib and Seaborn.
 
 **Cosine Similarity:**
 
