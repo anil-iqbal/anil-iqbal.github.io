@@ -5,9 +5,9 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "anil-iqbal.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # User settings
-username: Anil Iqbal
+username: ANIL IQBAL
 user_title:
-user_job_title: Data Scientist 
+user_job_title: DATA SCIENTIST
 email: anil.iqbal@yahoo.ca
 github: https://github.com/anil-iqbal
 linkedin: https://ca.linkedin.com/in/aniliqbal
