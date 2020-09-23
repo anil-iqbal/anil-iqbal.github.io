@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Load prediction "
+title:  "Loan prediction "
 img: images/project/netflix/Thumbnail.png
 description: "Built & implemented a content-based Movie recommender system using SK Learn library. The cosine similarity metrics were used that denotes similarity between two movies."
 ---
