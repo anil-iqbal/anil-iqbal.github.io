@@ -11,7 +11,7 @@ item:
     value: "ANN, CNN and RNN"
     image: "images/line-chart.png"
   - name: "Programming"
-    value: "Python"
+    value: "Python, Pandas, NumPy"
     image: "images/line-chart.png"
   - name: "Database"
     value: "MySQL, MS SQL Server,PostgreSQL, BiqQuery"
