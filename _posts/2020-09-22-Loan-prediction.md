@@ -5,7 +5,6 @@ img: images/project/loan/Thumnail.png
 description: "Machine Learning using scikit-learn Design bank loan default database schema in MySQL Use Pandas for feature engineering. Train various models with Gridsearch for loan default prediction Model validation using f1-score"
 ---
 
-**Data:**The data 
 
 Machine Learning using scikit-learn Design bank loan default database schema in MySQL Use Pandas for feature engineering. Train various models with Gridsearch for loan default prediction Model validation using f1-score. The data is from official website of Lending Club. It has more than 1.6M loan entries and hundreds of features.
 
