@@ -5,20 +5,13 @@ img: images/project/loan/Thumnail.png
 description: "Machine Learning using scikit-learn Design bank loan default database schema in MySQL Use Pandas for feature engineering. Train various models with Gridsearch for loan default prediction Model validation using f1-score"
 ---
 
-**Data:**The dataset contained in this project has 4,303 records with 24 data series.
+**Data:**The data I am using is available on Kaggle.com and also provided by the official website of Lending Club. It has more than 1.6M loan entries and hundreds of features.
 
-Modeled a classifier for Loan Default Prediction based on the borrower’s financial history to minimize bank’s lending risk. Achieved an accuracy of 84% using Ada-boost classifier. Tools used included: Pandas, Sklearn, Matplotlib and Seaborn.
+Machine Learning using scikit-learn Design bank loan default database schema in MySQL Use Pandas for feature engineering. Train various models with Gridsearch for loan default prediction Model validation using f1-score.
 
-**Cosine Similarity:**
+The purpose was to build a classifier that can predict loan default risk based on loan application data. 
 
-It is a method to measure the difference between two non zero vectors of an inner product space. See the example below to understand.
+I applied various technique to prevent overfitting. I did undersampling by boosting and bagging to balance the imbalance data set.In order to build the machine learning models, we need to do the data processing in advance. Firstly, dropping columns that contain too many missing values.
 
-**Data cleaning**:The data set is pretty neat. I only removed the ones that had the lowest count of user ratings.
+Based on setting different paraemters to compare the optimized models with baseline models. I evaluated models with accuracy score, precision, recall and F1-score.
 
-**Modelling:** I built this recommender calculating cosine similarity between movies. The similarity was calculated using two vectors that contained movie ratings.
-
-**Testing system:**
-
-To test the system I provided it a movie ‘Guardian of Galaxy’ – and knew to certain extent what the recommendations would be. The first 3 movies in the recommendation list had a match with the genre.
-
-![](/images/project/netflix/Results.PNG)
