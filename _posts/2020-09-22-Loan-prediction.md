@@ -14,3 +14,5 @@ I applied various technique to prevent overfitting. I did undersampling by boost
 
 Based on setting different paraemters to compare the optimized models with baseline models. I evaluated models with accuracy score, precision, recall and F1-score.
 
+![](/images/project/loan/Results.PNG)
+
