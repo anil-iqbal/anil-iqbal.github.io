@@ -8,7 +8,7 @@ item:
     value: "Linear & Logistic Regression, Gradient Descent, KNN, Naive Bayes, GridSearchCV."
     image: "images/line-chart.png"
   - name: "Deep Learning"
-    value: "ANN, CNN and RNN"
+    value: "ANN (artificial neural networks), CNN (Convolutional Neural Networks) and RNN (Recurrent Neural Networks)"
     image: "images/line-chart.png"
   - name: "Programming"
     value: "Python, Pandas, NumPy"
