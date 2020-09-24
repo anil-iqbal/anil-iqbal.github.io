@@ -6,7 +6,7 @@ description: "Machine Learning using scikit-learn Design bank loan default datab
 ---
 
 
-Machine Learning using scikit-learn Design bank loan default database schema in MySQL Use Pandas for feature engineering. Train various models with Gridsearch for loan default prediction Model validation using f1-score. The data is from official website of Lending Club. It has more than 1.6M loan entries and hundreds of features.
+This project aims to build a classifier to predict whether a loan case will be paid off or not. historical dataset from previous loan applications, clean the data, and apply different classification algorithm on the data. The data is from official website of Lending club and It has more than 1.6M loan entries and hundreds of features.
 
 The purpose was to build a classifier that can predict loan default risk based on loan application data. 
 
