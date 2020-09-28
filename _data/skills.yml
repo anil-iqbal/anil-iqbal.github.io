@@ -14,7 +14,7 @@ item:
     value: "Python, Pandas, NumPy"
     image: "images/line-chart.png"
   - name: "Database"
-    value: "MySQL, MS SQL Server,PostgreSQL, BiqQuery"
+    value: "MySQL, MS SQL Server,PostgreSQL, Google Cloud Platform, BiqQuery"
     image: "images/line-chart.png"
   - name: "Visualization"
     value: "Tableau, Power BI, Seaborn and Matplotlib"
