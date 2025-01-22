@@ -1,5 +1,12 @@
 ####### Work Experience #######
-job:
+Job:
+  - title: "Digital Analytics Manager | Scotiabank | (Apr 2022 – Present)"
+    description: |
+      <p>Designed and automated PowerBI reports for the sales and strategy teams, saving over 15 hours per week in manual reporting efforts and increasing team productivity.</p>
+      <p>Conducted traffic analysis using Adobe Analytics, uncovering $100K inefficiencies in paid media spend targeting non-converting traffic from Nigeria and South Africa, and recommended reallocating budgets to high-performing campaigns, improving cost efficiency and ROI.</p>
+      <p>Detected a 30,000-visit traffic spike from Nigeria, proposing strategic adjustments to optimize targeting and improve application conversion rates.</p>
+      <p>Developed a dashboard with actionable insights, improving resource allocation efficiency by 20% for the digital marketing team.</p>
+      <p>Identified top closure reasons for D2D chequing accounts and proposed onboarding changes to reduce voluntary closures within the critical first 90 days, improving retention rates.</p>   
 - title: "Search Strategist | Resolution Media, Part of Omnicom Media Group | (Jul 2018 – Present)"
   description: |
     <p>Executed remarketing campaigns to users who abandoned items in their shopping carts and bring them back tocomplete the transaction, which resulted in higher leads by 35% while conversion rate improved by 8%.
