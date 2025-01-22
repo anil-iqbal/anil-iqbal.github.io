@@ -1,5 +1,5 @@
-About:
-  image: "images/anil.jpg"
-  description: "<p>I am a results-oriented Digital Analytics professional with 8+ years of experience transforming data into actionable insights that drive business growth and optimize performance.</p>
-    <p>As a Digital Analytics Manager at Scotiabank, I’ve automated reporting, identified $100K in marketing inefficiencies, and enhanced resource allocation by 20%. Proficient in PowerBI, Tableau, SQL, Python, and Adobe Analytics, I excel in data visualization and strategic decision-making.</p>
-    <p>A two-time "Best of the Best Culture Catalyst Award" winner, I bring innovation, collaboration, and a proven track record of delivering measurable value across industries.</p>"
+image: "images/anil.jpg" 
+description: | 
+  <p>I am a results-oriented Digital Analytics professional with 8+ years of experience transforming data into actionable insights that drive business growth and optimize performance.</p>
+  <p>As a Digital Analytics Manager at Scotiabank, I’ve automated reporting, identified $100K in marketing inefficiencies, and enhanced resource allocation by 20%. Proficient in PowerBI, Tableau, SQL, Python, and Adobe Analytics, I excel in data visualization and strategic decision-making.</p>
+  <p>A two-time "Best of the Best Culture Catalyst Award" winner, I bring innovation, collaboration, and a proven track record of delivering measurable value across industries.</p>
